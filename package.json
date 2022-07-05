@@ -19,5 +19,9 @@
   "homepage": "https://github.com/NatashaWolf/hexlet-js#readme",
   "dependencies": {
     "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "jest": "^28.1.2",
+    "prettier": "^2.7.1"
   }
 }
